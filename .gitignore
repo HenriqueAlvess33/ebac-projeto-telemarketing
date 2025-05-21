@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Arquivos grandes
+IAST1_Streamlit_II/input/data/output/large_df.*
+IAST1_Streamlit_II/input/data/input/bank-additional-full-40.csv
